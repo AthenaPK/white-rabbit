@@ -6,8 +6,11 @@ $$ f(n) = \frac{n^4}{8}−\frac{5n^3}{4}+\frac{31n^2}{8}−\frac{19n}{4}+6$$
 </details>
 
 <details>
+  
   <summary>Hint 2</summary>
+  
   But for which **number**s to evaluate? 
+  
 </details>
 
 <details>
